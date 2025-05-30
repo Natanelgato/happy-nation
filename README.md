@@ -1,3 +1,2 @@
 # Happy Nation
-
-Site gamificado de tarefas com recompensas.
+Site divertido de tarefas com recompensas 💖

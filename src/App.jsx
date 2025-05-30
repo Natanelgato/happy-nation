@@ -1,8 +1,12 @@
+import React from 'react'
+import Header from './components/Header'
+import TaskList from './components/TaskList'
+
 function App() {
   return (
-    <div style={{ padding: '2rem', textAlign: 'center' }}>
-      <h1>🚀 Happy Nation</h1>
-      <p>Seu site está funcionando! Agora é só colocar o conteúdo real aqui.</p>
+    <div className="app">
+      <Header />
+      <TaskList />
     </div>
   )
 }

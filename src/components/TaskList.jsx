@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import TaskCard from './TaskCard'
-import awake from '../assets/awake.png'
+import awake from '../assets/avatar.png'
 
 const defaultTasks = [
   { name: 'Acordar antes das 10h', value: 2.00, icon: awake },
